@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on completing the App Academy Software Engineer Course
+- 🌱 I’m currently learning JavaScript and Python
+- 👯 I’m looking to collaborate on projects that will build my exposure and experience
+- 🤔 I’m looking for help with transitioning from a Cloud Engineer II to a Software Engineer
+- 💬 Ask me about anything that you would like to know
+- ⚡ Fun fact: I've been in the IT industry since my teenage years (20+ years!). I've worked for small companies, government agencies and big companies like Amazon as well. 
+
+
+
 <!--
 **thelazrus/thelazrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
