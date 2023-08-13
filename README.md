@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on completing the App Academy Software Engineer Course
-- 🌱 I’m currently learning JavaScript and Python
+- 🔭 I’m currently building utilities to automate common repetetive tasks
+- 🌱 I’m currently learning more about C# and .NET
 - 👯 I’m looking to collaborate on projects that will build my exposure and experience
-- 🤔 I’m looking for help with transitioning from a Cloud Engineer II to a Software Engineer
+- 🤔 I’m looking for help with ideas for applications that can solve common problems
 - 💬 Ask me about anything that you would like to know
-- ⚡ Fun fact: I've been in the IT industry since my teenage years (20+ years!). I've worked for small companies, government agencies and big companies like Amazon as well. 
+- ⚡ Fun fact: I've been in the IT industry since my teenage years (20+ years!). I've worked for small companies, government agencies and big companies like Amazon as well. I have also successfully transitioned from being a Cloud Engineer to a Software Engineer.
 
 
 
